@@ -3,7 +3,6 @@ const { process_params } = require('express/lib/router');
 const app = express();
 const path = require('path');
 
-
 const PORT = process.env.PORT || 3000;
 
 const serveStatic = require("serve-static");
