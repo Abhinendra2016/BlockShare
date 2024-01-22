@@ -35,6 +35,31 @@ By leveraging Web3.Storage, we achieved a decentralized architecture that enhanc
 
 **Repository Link:** [https://github.com/Abhinendra2016/BLOCKSHARE-3.0](https://github.com/Abhinendra2016/BLOCKSHARE-3.0)
 
+# Contributors
+
+We want to express our gratitude to the following individuals who have contributed to the success of Bloch Share in various ways:
+
+# Project Contributors
+
+We extend our sincere appreciation to the following individuals who have contributed significantly to the development and success of Bloch Share:
+
+- **Abhinendra Pratap SINGH**
+  - Full-stack developer: Led the implementation of both front-end and back-end components, and managed the deployment phase.
+
+- **Monica Chand (Phase 1)**
+  - Frontend Developer: Contributed to the development of the initial single-page frontend.
+
+- **Subhag Prabhune**
+  - UI/UX Designer: Brought creativity and expertise to enhance the user interface and experience.
+
+- **Krupansh Desai**
+  - Web3Storage Researcher: Conducted in-depth research and contributed insights for the integration of Web3Storage.
+
+Thank you to each of these contributors for their valuable and dedicated efforts in making Bloch Share a success!
+ 
+
+Thank you to all our contributors for their involvement and support!
+
 ## How to Use
 Follow these steps to set up and run the Bloch Share project on your local machine:
 
